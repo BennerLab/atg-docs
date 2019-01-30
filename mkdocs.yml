@@ -1,0 +1,7 @@
+site_name: ATG
+theme: cinder
+# site_favicon:
+nav:
+  - Home: index.md
+  - Metascape: http://metascape.org
+
